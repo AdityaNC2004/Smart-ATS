@@ -1,0 +1,13 @@
+prefix=/Users/aditya/Documents/Projects/Easy_ATS/venv
+exec_prefix=/Users/aditya/Documents/Projects/Easy_ATS/venv
+libdir=/Users/aditya/Documents/Projects/Easy_ATS/venv/lib
+sharedlibdir=/Users/aditya/Documents/Projects/Easy_ATS/venv/lib
+includedir=/Users/aditya/Documents/Projects/Easy_ATS/venv/include
+
+Name: zlib
+Description: zlib compression library
+Version: 1.2.13
+
+Requires:
+Libs: -L${libdir} -L${sharedlibdir} -lz
+Cflags: -I${includedir}
