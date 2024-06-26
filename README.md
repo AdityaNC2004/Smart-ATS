@@ -8,6 +8,7 @@ Smart ATS is an advanced AI-powered Resume Evaluation System designed to help ca
 - Identify missing keywords in the resume.
 - Provide actionable feedback and recommendations to improve the resume.
 - Supports PDF resume uploads.
+- SmartATS : https://smartats03.streamlit.app
 
 ## Installation
 
